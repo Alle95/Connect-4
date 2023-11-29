@@ -5,10 +5,13 @@
     justify-content: center;
    }
 
-   .box {
+.box {
     background-color: aliceblue;
     border: 2px solid black;
-   }
-   .card_title{
+  }
+.card_title{
     background-color: blue;
-   }
+}
+.container-table{
+    display: none;
+}
